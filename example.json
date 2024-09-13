@@ -1,0 +1,286 @@
+{
+    "breed": "Poodle",
+    "origin": "Germany, though often associated with France",
+    "size": {
+      "standard": {
+        "height": "Over 15 inches (38 cm)",
+        "weight": "45-70 lbs (20-32 kg)"
+      },
+      "miniature": {
+        "height": "10-15 inches (25-38 cm)",
+        "weight": "12-20 lbs (5-9 kg)"
+      },
+      "toy": {
+        "height": "Under 10 inches (25 cm)",
+        "weight": "4-6 lbs (2-3 kg)"
+      },
+      "medium": {
+        "height": "15-20 inches (38-50 cm)",
+        "weight": "30-45 lbs (14-20 kg)",
+        "note": "Recognized in some countries but not by the AKC"
+      }
+    },
+    "lifespan": "12-15 years",
+    "coat": {
+      "type": "Curly, dense, and hypoallergenic",
+      "colors": [
+        "White",
+        "Black",
+        "Brown",
+        "Silver",
+        "Gray",
+        "Blue",
+        "Apricot",
+        "Cream",
+        "Red",
+        "Cafe-au-lait",
+        "Parti-color",
+        "Phantom",
+        "Sable",
+        "Brindle"
+      ],
+      "grooming_styles": [
+        "Continental Clip",
+        "English Saddle Clip",
+        "Sporting Clip",
+        "Puppy Clip",
+        "Modern Clip",
+        "Lamb Clip",
+        "Kennel Clip",
+        "Dutch Clip",
+        "Summer Clip"
+      ],
+      "shedding": "Low shedding; considered hypoallergenic",
+      "maintenance": "High; requires regular grooming"
+    },
+    "temperament": {
+      "intelligent": true,
+      "active": true,
+      "alert": true,
+      "trainable": true,
+      "friendly": true,
+      "good_with_children": true,
+      "good_with_other_pets": true,
+      "sensitive": true,
+      "loyal": true,
+      "playful": true,
+      "sociable": true,
+      "obedient": true
+    },
+    "health": {
+      "common_issues": [
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "Addison's disease",
+        "Gastric dilatation-volvulus (bloat)",
+        "Epilepsy",
+        "Hypothyroidism",
+        "Sebaceous adenitis",
+        "Legg-Calvé-Perthes disease",
+        "Von Willebrand's disease",
+        "Cushing's disease",
+        "Patellar luxation",
+        "Ear infections",
+        "Dental issues"
+      ],
+      "life_expectancy": "12-15 years",
+      "recommended_health_tests": [
+        "Hip evaluation",
+        "Ophthalmologist evaluation",
+        "PRA Optigen DNA Test",
+        "Addison's disease screening",
+        "Thyroid function test",
+        "Neonatal Encephalopathy DNA Test",
+        "Cardiac exam",
+        "Patella evaluation"
+      ],
+      "vaccinations": [
+        "Rabies",
+        "Distemper",
+        "Parvovirus",
+        "Adenovirus",
+        "Parainfluenza",
+        "Bordetella"
+      ]
+    },
+    "history": {
+      "origin": "Developed as a water retriever in Germany.",
+      "popularity": "Became popular in France as a companion dog and performer.",
+      "roles": [
+        "Hunting dog",
+        "Circus performer",
+        "Companion dog",
+        "Service and therapy dog",
+        "Truffle hunter",
+        "Guide dog",
+        "Military dog",
+        "Search and rescue"
+      ],
+      "cultural_significance": "Often depicted in art and literature; associated with elegance and sophistication.",
+      "evolution": "Descended from Barbet and Hungarian Water Hound."
+    },
+    "care": {
+      "exercise": "Requires daily physical and mental stimulation; enjoys walks, runs, swimming, and interactive games.",
+      "grooming": "Needs regular grooming to prevent matting; professional grooming recommended every 4-6 weeks. Daily brushing is ideal.",
+      "training": "Highly trainable; excels in obedience, agility, and various dog sports. Positive reinforcement methods work best.",
+      "diet": "Should be fed high-quality dog food appropriate for age, size, and activity level. Portion control is important to prevent obesity.",
+      "socialization": "Early socialization recommended to develop well-rounded behavior. Exposure to different environments, people, and animals is beneficial.",
+      "living_conditions": "Adaptable to various living situations but thrives in homes where they receive ample attention and activity."
+    },
+    "recognition": {
+      "akc_group": "Non-Sporting Group",
+      "fci_group": "Group 9: Companion and Toy Dogs",
+      "popularity_rank": "7th out of 197 breeds (AKC 2020 ranking)",
+      "other_organizations": [
+        "United Kennel Club (UKC)",
+        "The Kennel Club (UK)",
+        "Canadian Kennel Club (CKC)",
+        "Fédération Cynologique Internationale (FCI)"
+      ],
+      "breed_standards": {
+        "AKC": "https://www.akc.org/dog-breeds/poodle-standard/",
+        "FCI": "http://www.fci.be/Nomenclature/Standards/172g09-en.pdf"
+      }
+    },
+    "interesting_facts": [
+      "Poodles come in three officially recognized sizes: Standard, Miniature, and Toy. Some countries also recognize a Medium or Klein size.",
+      "They are the second most intelligent dog breed, according to Stanley Coren's 'The Intelligence of Dogs.'",
+      "Their name comes from the German word 'Pudel,' meaning 'to splash in water.'",
+      "Poodles have been used for truffle hunting due to their keen noses.",
+      "The elaborate grooming styles originated to protect vital organs and joints in cold water while hunting.",
+      "Standard Poodles were originally bred as water retrievers.",
+      "Poodles have a history of performing in circuses due to their intelligence and trainability."
+    ],
+    "additional_information": {
+      "hypoallergenic": "Poodles are considered hypoallergenic because they shed minimally, producing less dander.",
+      "activities": [
+        "Obedience",
+        "Agility",
+        "Flyball",
+        "Dock diving",
+        "Tracking",
+        "Therapy work",
+        "Conformation shows",
+        "Rally obedience",
+        "Scent work",
+        "Canine freestyle"
+      ],
+      "famous_poodles": [
+        {
+          "name": "Foo-Foo",
+          "owner": "Liberace",
+          "notes": "Often appeared with the pianist during performances."
+        },
+        {
+          "name": "Rufus",
+          "owner": "Winston Churchill",
+          "notes": "Companion during his later years."
+        },
+        {
+          "name": "Boy",
+          "owner": "King Louis XVI and Marie Antoinette",
+          "notes": "Royal companion in France."
+        },
+        {
+          "name": "Charley",
+          "owner": "John Steinbeck",
+          "notes": "Travel companion in 'Travels with Charley.'"
+        }
+      ],
+      "breed_clubs": [
+        {
+          "name": "The Poodle Club of America",
+          "website": "https://www.poodleclubofamerica.org/"
+        },
+        {
+          "name": "The Kennel Club (UK) Poodle Club",
+          "website": "https://www.thekennelclub.org.uk/"
+        },
+        {
+          "name": "The Poodle Club of Canada",
+          "website": "http://www.poodleclubcanada.org/"
+        }
+      ],
+      "related_breeds": [
+        "Labradoodle",
+        "Goldendoodle",
+        "Cockapoo",
+        "Portuguese Water Dog",
+        "Irish Water Spaniel",
+        "Barbet",
+        "Lagotto Romagnolo"
+      ],
+      "fci_standard_number": 172,
+      "first_recorded": "15th century",
+      "ancestors": [
+        "Barbet",
+        "Hungarian Water Hound"
+      ],
+      "registrations": {
+        "AKC": "American Kennel Club",
+        "CKC": "Canadian Kennel Club",
+        "UKC": "United Kennel Club",
+        "KC": "The Kennel Club (UK)",
+        "FCI": "Fédération Cynologique Internationale"
+      },
+      "breed_specific_laws": "Some regions have regulations on grooming styles for show competitions.",
+      "training_tips": [
+        "Use positive reinforcement techniques.",
+        "Provide mental stimulation through puzzle toys.",
+        "Early socialization is crucial.",
+        "Consistency is key in training.",
+        "Enroll in obedience classes to enhance skills."
+      ],
+      "nutrition": {
+        "diet_type": "High-quality dry or wet dog food.",
+        "feeding_schedule": "2 meals per day for adults; 3-4 meals for puppies.",
+        "special_requirements": "Monitor for food allergies; avoid overfeeding to prevent obesity."
+      },
+      "breeding": {
+        "maturity_age": "Females: 1-2 years; Males: 1 year",
+        "litter_size": "2-6 puppies, varies by size",
+        "gestation_period": "Approximately 63 days",
+        "breeding_recommendations": "Health screenings for genetic issues recommended before breeding."
+      },
+      "common_mixes": [
+        {
+          "name": "Labradoodle",
+          "cross_with": "Labrador Retriever"
+        },
+        {
+          "name": "Goldendoodle",
+          "cross_with": "Golden Retriever"
+        },
+        {
+          "name": "Cockapoo",
+          "cross_with": "Cocker Spaniel"
+        },
+        {
+          "name": "Schnoodle",
+          "cross_with": "Schnauzer"
+        },
+        {
+          "name": "Bernedoodle",
+          "cross_with": "Bernese Mountain Dog"
+        }
+      ],
+      "behavior": {
+        "barking": "Moderate; may bark to alert.",
+        "digging": "Not typically a problem.",
+        "chewing": "Can be an issue if not exercised adequately.",
+        "herding": "Not a herding breed but may exhibit herding behaviors."
+      },
+      "suitable_for": [
+        "Families",
+        "Singles",
+        "Seniors",
+        "Active individuals",
+        "People with allergies"
+      ],
+      "unsuitable_for": [
+        "People unwilling to commit to grooming needs",
+        "Those who prefer low-energy dogs"
+      ]
+    }
+  }
+  
